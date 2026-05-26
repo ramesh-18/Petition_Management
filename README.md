@@ -73,4 +73,4 @@ src/com/cheeks/petit/
 ---
 
 ## 📝 License
-This project was developed as part of a CAD (Customer Application Development) training.
+This project was developed as part of a CAD (Console Application Development) training.
